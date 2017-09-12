@@ -10,3 +10,7 @@ ol.google-fonts>li>input[type="radio"] {
 ol.google-fonts>li {
 	margin-bottom: 10px;
 }
+
+ol.google-fonts>li>label {
+	display: inline;
+}
