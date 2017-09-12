@@ -1,0 +1,11 @@
+{
+	"id": "select_google_fonts",
+	"version": "1.0",
+	"description": "Select Google Fonts",
+	"categories": [
+		"fonts",
+		"design",
+		"google"
+	],
+	"compatible_from": "2018.1"
+}
