@@ -39,5 +39,5 @@ foreach ($fonts as $font) {
 }
 ?>
 </ol>
-<button type="submit" class="btn btn-warning"><?php translate("use_this_font");?></button>
+<button type="submit" class="btn btn-warning"><i class="fa fa-save"></i> <?php translate("use_this_font");?></button>
 </form>
